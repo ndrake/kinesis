@@ -1,0 +1,13 @@
+[F6]>[next]
+[F5]>[play]
+[F4]>[prev]
+[scroll]>[vol-]
+[prtscr]>[mute]
+[kp=]>[kp=mac]
+[pause]>[vol+]
+[lctrl]>[lwin]
+[ralt]>[rctrl]
+[rctrl]>[rwin]
+[kp-lctrl]>[kp-lwin]
+[kp-rctrl]>[kp-rwin]
+
